@@ -1,5 +1,5 @@
 
-# Token DApp
+# VaccineCertificate
 
 ## Introduction
 
