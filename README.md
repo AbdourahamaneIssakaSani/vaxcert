@@ -21,7 +21,7 @@ This repository contains the Token DApp project, which includes a Solidity smart
 Clone the repository:
 
 ```sh
-git clone
+git clone git@github.com:AbdourahamaneIssakaSani/vaxcert.git
 ```
 
 Go to the project directory
