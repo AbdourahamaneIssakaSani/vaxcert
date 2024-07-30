@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository contains the Token DApp project, which includes a Solidity smart contract and a React frontend.
+This repository contains a simple Smart Contract that can be used to issue, verify or revoke vaccine certificates.
 
 ## Deployed Contract
 
