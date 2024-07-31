@@ -42,7 +42,7 @@ npm install --legacy-peer-deps
 
 We have written some test cases in javascript to make sure the contract behaves correctly once deployed.
 
-From the root project of the app, create .env file and add the private key as follow:
+From the root project of the app, create `.env` file and add the private key as follow:
 
 ```sh
 PRIVATE_KEY=<YOUR_PRIVATE_KEY>
